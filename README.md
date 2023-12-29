@@ -7,6 +7,7 @@
     git clone https://github.com/LuckySimi/bot_discord_opsong.git
 ```
 #### requirements
+    python version 3.10.11
 ```
     pip install -r requirements.txt
 ```
